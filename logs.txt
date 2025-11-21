@@ -1,0 +1,65 @@
+[2025-11-16 17:39:47] Miner version: 3.0.3
+[2025-11-16 17:39:47] OS: 6.6.111+
+[2025-11-16 17:39:47] Run miner as administrator/root to enable MSR tweaks
+[2025-11-16 17:39:47] CPU0: Intel(R) Xeon(R) CPU @ 2.20GHz       [L3:  56320 KB][L2:  256 KB][L1:  32 KB][PU:  2] | Family 6 Model 79 Stepping 0
+[2025-11-16 17:39:47] Algorithm/s: randomx [0.85% fee]
+[2025-11-16 17:39:47] Gpu mining: disabled
+[2025-11-16 17:39:47] Cpu mining: enabled
+[2025-11-16 17:39:47] Watchdog: enabled
+[2025-11-16 17:39:47] Huge-pages: disabled
+[2025-11-16 17:39:47] HW-Aes: available
+[2025-11-16 17:39:47] Algorithm 0 intensity set to 1
+[2025-11-16 17:39:47] Algorithm 0 available --cpu-threads-intensity values : 1
+[2025-11-16 17:39:48] Starting init of worker threads
+[2025-11-16 17:39:48] Finished init of worker threads
+[2025-11-16 17:39:48] CPU 1C/2T [4 T]
+[2025-11-16 17:39:48] NUMA node 0 total memory: 7947 MB
+[2025-11-16 17:39:48] CPU extensions detected : AVX2|AVX|SSE42|SSE2|AES|BMI2|PCLMUL|LZCNT
+[2025-11-16 17:39:48] HTTP API disabled
+[2025-11-16 17:39:58] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:39:58] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:03] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:03] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:08] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:08] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:13] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:13] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:18] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:18] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:23] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:23] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:28] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:28] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:33] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:33] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:38] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:38] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:43] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:43] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:48] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:48] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:53] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:53] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:40:58] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:40:58] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:03] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:03] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:08] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:08] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:13] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:13] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:18] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:18] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:23] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:23] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:28] A0 not connected to a pool
+[2025-11-16 17:41:28] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:28] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:33] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:33] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:38] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:38] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:43] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:43] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
+[2025-11-16 17:41:48] Couldn't connect to pool rx.unmineable.com:3333
+[2025-11-16 17:41:48] Reconnecting to rx.unmineable.com:3333 in 5 seconds [0]
